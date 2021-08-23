@@ -1,0 +1,24 @@
+{
+  "name": "responsive-html-email-template",
+  "version": "1.0.0",
+  "description": "Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.",
+  "main": "build.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inline-css": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreis1/responsive-html-email-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mreis1/responsive-html-email-template/issues"
+  },
+  "homepage": "https://github.com/mreis1/responsive-html-email-template#readme"
+}

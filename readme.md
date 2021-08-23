@@ -1,3 +1,26 @@
+## Changes made by this fork: 
+
+Write your html template in src-email.html
+
+Clone the repo
+
+Run `npm install`
+
+
+Create your email in `src-email.html`
+
+Run `npm run build`
+
+
+Get the output at `dist-email.html`
+
+
+Note: The original project provides `email.html` and `email-inlined.html` files
+
+
+
+
+
 # Free Responsive HTML Email Template
 
 Sometimes all you want is a really simple responsive HTML email template with a clear call-to-action button. Here it is.
